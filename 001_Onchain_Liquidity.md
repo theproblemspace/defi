@@ -1,6 +1,6 @@
 # Overview
 
-Authors: Chris Ragobeer
+Contributors: Chris Ragobeer
 
 The vast majority applications are still built as chain specific to cater to the users and funds in one community. People are moving liquidity around different blockchains with bridges. Using different blockchains in is still a challenge for users, where they have to bridge funds, switch wallets, acquiring native tokens to pay for gas, etc.
 
