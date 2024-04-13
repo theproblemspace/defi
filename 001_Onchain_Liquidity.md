@@ -4,9 +4,21 @@ Authors: Chris Ragobeer
 
 The vast majority applications are still built as chain specific to cater to the users and funds in one community. People are moving liquidity around different blockchains with bridges. Using different blockchains in is still a challenge for users, where they have to bridge funds, switch wallets, acquiring native tokens to pay for gas, etc.
 
-## Fragmentationof Liquidity
+## Fragmentation of Liquidity
+
+Many smart contracts-based blockchains provide DeFi services today. Each of these chains deploys different consensus protocols, hashing techniques, programming languages, and block size limits, among others. This differentiation has resulted in isolated networks that cannot communicate with each other.
+
+Take the Ethereum blockchain, for example. It holds the highest staked value in the DeFi sector, constituting over half of the total crypto assets within the Web3 space. Now, imagine more than half of the entire capitalization of the Web3 space being unavailable to DeFi users on other blockchains, such as Solana, Avalanche, or Aptos.
 
 Fragmentation of liquidity across different protocols and assets. Unlike traditional centralized exchanges where liquidity is concentrated within a single platform, in DeFi, liquidity is fragmented across various decentralized exchanges (DEXs), lending protocols, and liquidity pools. This fragmentation reduces the depth of markets and makes it challenging for users to find sufficient liquidity for their trading and borrowing needs.
+
+### Single chain fragmentation
+
+In this instance, the available liquidity is spread across different protocols on the same chain. For example, while some DApps on the Ethereum blockchain, like Uniswap, SushiSwap, and Balancer, have amassed massive liquidity in their pools, others suffer from insignificant traction.
+
+### Cross-chain fragmentation
+
+In this case, the available liquidity is spread across multiple protocols on different blockchains. For example, DApps built on newer chains like Solana, Avalanche, and Aptos face limitations in accessing the massive liquidity present on the Ethereum blockchain.
 
 ## Slippage
 
