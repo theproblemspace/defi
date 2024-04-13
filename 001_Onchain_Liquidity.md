@@ -1,6 +1,12 @@
 # Overview
 
+Authors: Chris Ragobeer
+
 The vast majority applications are still built as chain specific to cater to the users and funds in one community. People are moving liquidity around different blockchains with bridges. Using different blockchains in is still a challenge for users, where they have to bridge funds, switch wallets, acquiring native tokens to pay for gas, etc.
+
+## Fragmentationof Liquidity
+
+Fragmentation of liquidity across different protocols and assets. Unlike traditional centralized exchanges where liquidity is concentrated within a single platform, in DeFi, liquidity is fragmented across various decentralized exchanges (DEXs), lending protocols, and liquidity pools. This fragmentation reduces the depth of markets and makes it challenging for users to find sufficient liquidity for their trading and borrowing needs.
 
 ## Slippage
 
