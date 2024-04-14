@@ -20,6 +20,10 @@ Centralized finance platforms are susceptible to security breaches, hacking atta
 
 Centralized finance services may exclude individuals who lack access to traditional banking infrastructure or do not meet certain eligibility criteria, exacerbating financial exclusion and inequality. CeFi platforms often require users to undergo identity verification procedures, maintain minimum account balances, or meet creditworthiness requirements, effectively excluding those who are unbanked or underbanked. Additionally, centralized platforms may impose geographic restrictions or currency limitations, further limiting access to financial services for marginalized populations. This lack of financial inclusion not only perpetuates existing inequalities but also hinders economic development and social progress by depriving individuals of opportunities to participate in the formal financial system. Addressing the barriers to financial inclusion in centralized finance is crucial for promoting economic empowerment and ensuring that all individuals have equal access to financial services and opportunities.
 
+## Privacy Concerns
+
+CeFi platforms may collect and monetize users' personal data, compromising their privacy and exposing them to targeted advertising, surveillance, or identity theft.
+
 ## Weakening of a the nation state dollar
 
 ## High Fees and Hidden Costs
