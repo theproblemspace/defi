@@ -1,0 +1,1 @@
+Although DeFi aims to eliminate centralized intermediaries, the specialized knowledge required to manage private keys and interact with the blockchain makes it difficult for retail users to participate in the DeFi system directly.

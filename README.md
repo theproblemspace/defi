@@ -1,6 +1,4 @@
-# defi
-
-Defi Problem Spaces
+# The little book of Defi Problems
 
 - [Centralized Finance](/defi/009_Centralized_Finance)
 - [Bitcoin](/defi/014_Bitcoin)
@@ -15,3 +13,21 @@ Defi Problem Spaces
 - [Volatility](/defi/011_Volatility)
 - [Protocol Risk](/defi/012_Protocol_Risk)
 - [MEV](/defi/013_MEV)
+- [National Currency](/defi/013_MEV)
+- [Interoperability](/defi/013_MEV)
+- [Market Manipulation](/defi/013_MEV)
+- [Expectations](/defi/013_MEV)
+- [Efficiencies](/defi/013_MEV)
+- [Security](/defi/013_MEV)
+- [Oracles](/defi/013_MEV)
+- [Custody](/defi/013_MEV)
+- [Governance](/defi/013_MEV)
+- [RWA Bridging](/defi/013_MEV)
+- [Credit Worthiness](/defi/013_MEV)
+- [Stablecoins](/defi/013_MEV)
+- [LVR](/defi/013_MEV)
+- [AMM](/defi/013_MEV)
+- [Lack of Decentralization](/defi/013_MEV)
+- [Yield](/defi/013_MEV)
+- [Fraud](/defi/013_MEV)
+- [Economic Incentives](/defi/013_MEV)
