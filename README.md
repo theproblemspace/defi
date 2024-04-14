@@ -3,6 +3,7 @@
 Defi Problem Spaces
 
 - [Centralized Finance](/defi/009_Centralized_Finance)
+- [Bitcoin](/defi/014_Bitcoin)
 - [On-chain Liquidity](/defi/001_Onchain_Liquidity)
 - [Privacy](/defi/002_Privacy)
 - [Smart Contract Security](/defi/004_Smart_Contract_Security)
