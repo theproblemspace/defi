@@ -1,6 +1,7 @@
-# The little book of Defi Problems
+# The little book of DeFi Problems
 
 - [Centralized Finance](/defi/009_Centralized_Finance)
+- [Banks](/defi/034_Banks)
 - [Bitcoin](/defi/014_Bitcoin)
 - [On-chain Liquidity](/defi/001_Onchain_Liquidity)
 - [Privacy](/defi/002_Privacy)
@@ -24,10 +25,10 @@
 - [Governance](/defi/013_MEV)
 - [RWA Bridging](/defi/013_MEV)
 - [Credit Worthiness](/defi/013_MEV)
-- [Stablecoins](/defi/013_MEV)
-- [LVR](/defi/013_MEV)
-- [AMM](/defi/013_MEV)
-- [Lack of Decentralization](/defi/013_MEV)
-- [Yield](/defi/013_MEV)
-- [Fraud](/defi/013_MEV)
-- [Economic Incentives](/defi/013_MEV)
+- [Stablecoins](/defi/026_Stablecoins)
+- [LVR](/defi/027_LVR)
+- [AMM](/defi/028_AMM)
+- [Lack of Decentralization](/defi/029_LackOf_Decentralization)
+- [Yield](/defi/030_Yield)
+- [Fraud](/defi/031_Fraud)
+- [Economic Incentives](/defi/032_Economic_Incentives)
