@@ -1,4 +1,4 @@
-# Centralized Finance
+# Centralized Finance (CEFi)
 
 ## Centralization of Power
 

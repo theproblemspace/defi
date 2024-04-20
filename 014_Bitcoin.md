@@ -17,3 +17,9 @@ Bitcoin's price is highly volatile, subject to rapid fluctuations that can make 
 ## Regulatory Uncertainty
 
 Bitcoin operates in a regulatory gray area in many jurisdictions, with governments struggling to classify it and determine appropriate regulations. This uncertainty can hinder mainstream adoption and investment in Bitcoin, as businesses and individuals may be hesitant to engage with an asset that lacks clear legal status and regulatory oversight.
+
+## Fragmentation of Standards
+
+BRC20
+Inscriptions
+Runes
