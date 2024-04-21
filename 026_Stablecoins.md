@@ -11,3 +11,5 @@ Some stablecoins, particularly algorithmic ones, lack transparency in their rese
 ## Centralization Risk
 
 Even fiat-backed stablecoins can be centralized if controlled by a single entity or consortium. This goes against the decentralized ethos of DeFi.
+
+## Algorithmic Stablecoin

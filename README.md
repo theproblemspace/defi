@@ -35,4 +35,6 @@
 - [Culture](/defi/032_Economic_Incentives)
 - [Banks](/defi/032_Economic_Incentives)
 - [Searchers](/defi/032_Economic_Incentives)
+- [Arbitrage](/defi/036_Arbitrage)
+- [DEX](/defi/037_DEX)
 - [References](/defi/100_References)
