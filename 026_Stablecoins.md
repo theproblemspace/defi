@@ -2,6 +2,8 @@
 
 ## Peg Stability
 
+Problem: Stablecoins can become unpegged
+
 Maintaining a 1:1 peg with the underlying asset (fiat currency, for example) can be challenging. Sudden market movements or lack of sufficient reserves can cause the peg to break, impacting DeFi protocols relying on them.
 
 ## Transparency and Audits
